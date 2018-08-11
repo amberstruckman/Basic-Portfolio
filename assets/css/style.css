@@ -21,13 +21,15 @@ h1 {
     color: #4aaaa5;
     padding: 10px;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    font-size: 1.5em;
 }
 
 #nameLogo {
     background: #4aaaa5;
     color: #ffffff;
     display: inline-block;
-    line-height: 100%;
+    line-height: 1.25em;
     padding: 8px;
     margin: 0;
     z-index: 0;
